@@ -1,3 +1,14 @@
+﻿/************************************************/
+
+//   Authors: Lea Alonzo, Francheska Chioson, Paul Luces
+//   Date modified: November 25, 2015
+//   Description: Final Project For LBYEC72
+//                
+
+/************************************************/
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
